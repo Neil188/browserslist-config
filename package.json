@@ -1,0 +1,22 @@
+{
+    "name": "@neil188/browserslist-config",
+    "version": "0.1.0",
+    "description": "Shareable browsers list config file",
+    "main": "index.js",
+    "scripts": {
+        "test": "node util/test.js"
+    },
+    "files": [
+        "browserslist-config-node.js"
+    ],
+    "keywords": [],
+    "author": "N Lupton",
+    "license": "MIT",
+    "devDependencies": {
+        "browserslist": "^4.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Neil188/browserslist-config.git"
+    }
+}
