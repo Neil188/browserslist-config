@@ -1,5 +1,7 @@
 module.exports = [
-    'last 2 versions',
     '> 0.5%',
-    'not dead',
+    'not ie 11',
+    'not Chrome 49',
+    'not Android <5',
+    'not dead'
   ]
