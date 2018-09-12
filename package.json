@@ -1,12 +1,14 @@
 {
     "name": "@neil188/browserslist-config",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Shareable browsers list config file",
     "main": "index.js",
     "scripts": {
         "test": "node util/test.js"
     },
-    "keywords": ["browserslist"],
+    "keywords": [
+        "browserslist"
+    ],
     "author": "N Lupton",
     "license": "MIT",
     "devDependencies": {
