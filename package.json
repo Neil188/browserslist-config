@@ -15,5 +15,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Neil188/browserslist-config.git"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
