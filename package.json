@@ -6,10 +6,7 @@
     "scripts": {
         "test": "node util/test.js"
     },
-    "files": [
-        "browserslist-config-node.js"
-    ],
-    "keywords": [],
+    "keywords": ["browserslist"],
     "author": "N Lupton",
     "license": "MIT",
     "devDependencies": {
