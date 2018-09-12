@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@neil188/browserslist-config.svg?style=popout)](https://www.npmjs.com/package/@neil188/pub-names)
 [![Travis build](https://img.shields.io/travis/Neil188/pub-names/master.svg?style=popout)](https://travis-ci.org/Neil188/pub-names)
 [![NpmLicense](https://img.shields.io/npm/l/@neil188/pub-names.svg?style=popout)](https://www.npmjs.com/package/@neil188/pub-names)
-[![GitHub last commit (master)](https://img.shields.io/github/last-commit/neil188/pub-names/master.svg?style=popout)](https://github.com/Neil188/pub-names)
+[![GitHub last commit (master)](https://img.shields.io/github/last-commit/neil188/pub-names/master.svg?style=popout)](https://github.com/Neil188/pub-names) [![Greenkeeper badge](https://badges.greenkeeper.io/Neil188/browserslist-config.svg)](https://greenkeeper.io/)
 
 Browerslist rules for my personal projects.
 
