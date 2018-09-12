@@ -9,6 +9,5 @@ deploy:
   api_key:
     secure: J2E0Gynee8FG+0OoZcr7K8ma4R5OKWFHR6cssaNcixv34xUU9usodJgDTkC/fCXpVrBC3m4LQFIdqnhyUqUHHuNnh6CN/IHZKnX2LjyHS8NC8Nxrp10Bv0MaOjb0tAgO/HdNh4YHbbbkiPwj+1qgsA1F26GIQsA3YFhi+rxDfG5XOQ9sLMsBVKgVQKbI0bNWM7cwSj+2DKg7xkT/rJElD3RWcvn/KOuBpQ+EkxR3/pSIlS6GOBWpo5hm3N2fdOBB3TtiD37lDEdcZwozxVIZOusgh7by9yNQRLqbDbgRNkXJLzhzH1n4SZKY0LfQzQdWMewSPlOkEa0YOM999eRAYzdsAtQiBnIiqPZIegJin2q4DCSXJVTOr0OAFLgSsKMA7CsRWDquPedM4DWDU3i3zIuS46KkHwoCqM5XAy+ehJmMQ87VfxDeWjzKSHeHCo+9A6IVgAF+gIDM/0xy0Teb+WbO2mphv2RUzVAf0pKLx3sSVVXiiFmXhDQLPdKVCuimDKtflWt2L4GlpcDeh3qcfJvx0xGfsSQBv5PA+VNC1vJGPK9YMVxYZ9ZrlnOVsLH5Ls0CVau1PbOASQEhfb5rwpFj3d4Qg/SOWz8EsGJsbeJa/c/9xf7Ig/BNd8QFSq3sNyAjKLyBeo0YBYw7EdjiiTdj/efsKPM+0OkHIdr4iDI=
   on:
-    tags: true
     repo: Neil188/browserslist-config
     branch: master
