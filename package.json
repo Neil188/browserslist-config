@@ -1,6 +1,6 @@
 {
     "name": "@neil188/browserslist-config",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "description": "Shareable browsers list config file",
     "main": "index.js",
     "scripts": {
