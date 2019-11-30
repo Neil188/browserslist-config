@@ -12,7 +12,7 @@
     "author": "N Lupton",
     "license": "MIT",
     "devDependencies": {
-        "browserslist": "^4.7.0"
+        "browserslist": "^4.8.0"
     },
     "repository": {
         "type": "git",
